@@ -45,10 +45,10 @@ For more information, see the following resources:
 
 ::: {#fig-erc layout-ncol=2}
 
-![SAKAME](https://cvws.icloud-content.com/B/AXkNNr519ph5jhMPAB5amZYQ_4G0AaX6kK-SXTGBN-10AuiWwRWZWjyR/New_Sensitivity.jpg?o=ArwgF3ZWFIfVpNti99RQViMfYTT-mKSy7Gzgpp1q2Miw&v=1&x=3&a=CAogTO5jMmV99P9muToQcivfnIM3SBbFSCJq5ggBO7j40pcSbRCZycrn3zAYmaam6d8wIgEAUgQQ_4G0WgSZWjyRaiZYPjjfa364uLuaElSwaCIXC62W-_4FEvXAIZ9xhWhRD3bKx-R2eXImw0Hf9t56G7gKXhDbcOEk8HubHK30vEGRC1vVe7FoNgkH2LvMoIQ&e=1674989638&fl=&r=2d8af8a5-1432-4c13-a821-ff70dbcee960-1&k=ZsQVERPuvJsqdQH_i9a8Ew&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=70&s=swLo-7ixTf-n7TyXCD6DhX6UqMQ&cd=i){#fig-sakame}
+![SAKAME](assets/projects/sakame.jpeg){#fig-sakame}
 
 
-![EGP](https://cvws.icloud-content.com/B/AYkahCE5i0EPxNECWwxeuImLCaVRAfGDZ9meDlWYQG3RrscKWHwcNyQc/intro_egp.jpg?o=ArjsUiw6COSyxYiI2iMO1cnJwcIfPyu-tx30Uy46Q27c&v=1&x=3&a=CAogIEqMgOpJHIdj6gbTwkWjaAvagYddtZUiqiCmMN9ETtQSbRDxyMrn3zAY8aWm6d8wIgEAUgSLCaVRWgQcNyQcaiYxts-HMGFMSefMfUBXjlVffz8Wc-atKqe5y5S7yt2Omukcugaf7HImY9WXrH16Ev9d9JJccvELPb-t51UKkLr6RnaUfykkKS-OQozPG3c&e=1674989638&fl=&r=2d8af8a5-1432-4c13-a821-ff70dbcee960-1&k=GJWeDeaF9JCVKozxl0QJgA&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=70&s=n7WLkfVqLeUK4UbCRJm7i7S7gaU&cd=i){#fig-egp}
+![EGP](assets/projects/egp.jpeg){#fig-egp}
 
 Summary figures of my work under the ERC project.
 
@@ -93,7 +93,7 @@ In this project I looked at how we can propagate input uncertainty through GP re
 ---
 fig-cap-location: bottom
 ---
-![](https://cvws.icloud-content.com/B/AayJ3sNFRNAGLOieyDXhwj6HTwKEAbV7e0tJ2NM7OAB9a-gdv73iC5vG/New_Information.jpg?o=Ao08D8QqFKPhKbSXZfSdLm2bZIj08kgtrOLOJDfNCrs4&v=1&x=3&a=CAogCTkFG2-caC4Sw-KKih-i0hpotjxIyxRNd42qo23f-pcSbRCgoZDo3zAYoP7r6d8wIgEAUgSHTwKEWgTiC5vGaiaK4d7GlZm8SLn50kXmmRdkoeDI5GvGI6HHN2Cch5629BcLqmcEOXImOWkDKwVNVrr4-C-iDl3uNOJ97TmkaTsQGo9ULdJ8lxQbzyANEIk&e=1674990780&fl=&r=87ea6a27-efce-44d8-9820-f30cb691cea1-1&k=mDOp-ONfHV0i_qeUkrYeMQ&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=70&s=2ziBjCaeifARVwuxBTRisIsM8YM&cd=i){width=400}
+![](assets/projects/usmile_it.jpeg){width=400}
 
 
 Summary figures of my work under the USMILE project.
@@ -152,7 +152,7 @@ This are the projects that I was a part of for sprints; where I was a part of a 
 
 ::: {#fig-glm}
 
-![](https://cvws.icloud-content.com/B/ATQxejwQ9g13wqS4Apbq0YygL3QeAcx0fY9j9LrTWNFfQPmji6w9DTvN/glm_summary.png?o=As32zo1ep_-1EtEJrW6q2I-dW2hjS5l1dfeuzgekmGmU&v=1&x=3&a=CAogmkvNjG8hD1sZXaM3m22POCQSEVkt1CTzX9ZHNb8pKs0SbRDN1orp3zAYzbPm6t8wIgEAUgSgL3QeWgQ9DTvNaiYpXKlzgE3MQkhbkW76bPDA5ggJbJ7P2UAI86NyyQIxgdJwHCCUQnImHXviEpPYtgvwnEZKmvaXx2yAQkTCaxMJkXyP55jWONuuFyADS4Q&e=1674992785&fl=&r=58b81b81-ff14-4147-a004-b009d98cec82-1&k=t3OQ3DlSrUEf2MHU01jaJA&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=70&s=1RblTrnxmSRWtfhmUPFE3hdfnrg&cd=i){width=400}
+![](assets/projects/glm_summary.png){width=400}
 
 Summary figures of the FDL Sprint project [[Slides](https://docs.google.com/presentation/d/1zyP3BryswuqXkQr3H4HQ4HygcoXu6ipzHICFXbfpGMw/edit?usp=sharing)].
 
@@ -212,7 +212,7 @@ For more resources see:
 
 ::: {#fig-starspots}
 
-![](https://cvws.icloud-content.com/B/AdYkbmkfcyUF33-Y-C0h1px-1HztAUHbqapR3X6Gr8pbrOdIm_EcMiTp/starspots_model.png?o=AmL1PgkxfmhgY77cX4mREhBObH-jA8ND0_I9R9bxGG8p&v=1&x=3&a=CAogBAlzpRKDijeR_hmaxHwPu4tEysGjM5swfUxs3ERcVOwSbRDe1orp3zAY3rPm6t8wIgEAUgR-1HztWgQcMiTpaiZFvPcavu6HeXHe2YQSOgVlulzbXmubT65y-cGjJPtNACxW9QxWh3ImnZp2VumNhuJakO3ub19TSBVzoCf9I7aSXEGD00BSCTmzEjeXt7E&e=1674992785&fl=&r=58b81b81-ff14-4147-a004-b009d98cec82-1&k=pTs46Cj8uDUkovrO9x7IHg&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=70&s=mAuon9RRchvlpKyL-qmACrLW7Rc&cd=i){width=500}
+![](assets/projects/starspots_model.png){width=500}
 
 Summary figures of the FDL Spring project [[Slides](https://docs.google.com/presentation/d/1icA9ercI6sSRZPxAa1MQeX3pfEue0oGw_wng-lbNZBA/edit?usp=sharing)].
 
