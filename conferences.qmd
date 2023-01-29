@@ -1,0 +1,51 @@
+---
+---
+# Conferences
+
+## 2022
+
+**Neural Fields: Modern Optimal Interpolation for Ocean Observation Data** \
+*World Ocean Circulation User Consultation Meeting* \
+[Slides (PDF)](https://eo4society.esa.int/training_uploads/WOC2022_Presentations/Day1/WOC2022_Poster_Pitch.pdf)
+
+
+**Orthonormal Convolutions for the Rotation Based Iterative Gaussianization** \
+Valero Laparra, Alexander Hepburn, **J. Emmanuel Johnson**, Jesús Malo \
+[Conference](https://ieeexplore.ieee.org/abstract/document/9897849) | [Paper](https://arxiv.org/abs/2206.03860)
+
+**The Kernelized Taylor Diagram** \
+Kristoffer Wickstrøm, J. Emmanuel Johnson, Sigurd Løkse, Gustau Camps-Valls,  Karl Øyvind Mikalsen, Michael Kampffmeyer, Robert Jenssen \
+[*2022 Norweigian AI Society Symposium*](https://www.aisociety.no/nais2022/) \
+[Paper](https://arxiv.org/abs/2205.08864) | [Code](https://github.com/wickstrom/kernelizedtaylordiagram)
+
+
+# Workshops
+
+## 2022
+
+**Neural Fields for Fast and Scalable Interpolation of Geophysical Ocean Variables** \
+**J. Emmanuel Johnson**, Redouane Lguensat, Ronan Fablet, Emmanuel Cosme, Julien Le Sommer \
+[*NeurIPS, Machine Learning for Physical Sciences*](https://ml4physicalsciences.github.io/2022/) \
+[Paper](https://arxiv.org/abs/2211.10444)
+
+## 2021
+
+**Detecting Spatiotemporal Lightning Patterns: An Unsupervised Graph-Based Approach** \
+Emma Benjaminson, Satyarth Praveen, Giulia Luise, J Emmanuel Johnson, Richard Strange, Milad Memarzadeh, Nadia Ahmed \
+[*NeurIPS, Machine Learning for Physical Sciences*](https://ml4physicalsciences.github.io/2021/) \
+[Paper (PDF)](https://ml4physicalsciences.github.io/2021/files/NeurIPS_ML4PS_2021_72.pdf)
+
+## 2020
+
+**Rotnet: Fast and scalable estimation of stellar rotation periods using convolutional neural networks** \
+**J. Emmanuel Johnson**, Sairam Sundaresan, Tansu Daylan, Lisseth Gavilan, Daniel K Giles, Stela Ishitani Silva, Anna Jungbluth, Brett Morris, Andrés Muñoz-Jaramillo \
+[*NeurIPS, Machine Learning for Physical Sciences*](https://ml4physicalsciences.github.io/2020/) \
+[Paper](https://arxiv.org/abs/2012.01985)
+
+## 2019
+
+**Information Theory in Density Destructors** \
+**J. Emmanuel Johnson**, Valero Laparra, Raul Santos-Rodriguez, Gustau Camps-Valls, Jesus Malo \
+[*ICML, Invertible Neural Nets and Normalizing Flows*](https://invertibleworkshop.github.io/INNF_2019) \
+[Paper](https://arxiv.org/abs/2012.01012)
+

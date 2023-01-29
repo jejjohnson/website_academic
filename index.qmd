@@ -1,0 +1,107 @@
+---
+title: "J. Emmanuel Johnson"
+about:
+    template: solana
+    image: assets/avatar.jpg
+    links:
+        - text: GitHub
+          icon: github
+          url: "https://github.com/jejjohnson"
+        - text: Scholar
+          icon: google
+          url: "https://scholar.google.com/citations?user=h-wdX7gAAAAJ&hl=en&authuser=1"
+        - text: Twitter
+          icon: twitter
+          url: "https://twitter.com/jejjohnson"
+        - text: LinkedIn
+          icon: linkedin
+          url: "https://www.linkedin.com/in/jejjohnson/"
+        - text: ORCID
+          icon: orcid
+          url: "https://orcid.org/0000-0002-6739-0053"
+        - text: CV
+          url: "cv.pdf"
+        - text: Email
+          url: "mailto:johnsonj@univ-grenoble-alpes.fr"
+---
+::: {.column-page}
+
+## Bio
+
+I am a CNRS post-Doctoral researcher at IGE/MEOM lab, where I am developing use cases for machine learning for computational and observation oceanography. My research has primarily applied machine learning in applications such as remote sensing, climate models, and observational oceanography. I usually work with large-scale spatial-temporal model simulations, reanalysis products or satellite observations with coordinate, grid-based or functional representations. I have an algorithmic background in manifold learning, kernel methods and information-theoretic measures. I specialize in (and typically apply) probabilistic models like Gaussian processes and generative models like Normalizing Flows, VAEs and Diffusion models.
+
+I see myself as a facilitator (a.k.a. *Machine Learning Research Engineer*): I like to create conceptual frameworks to consolidate research into easy-to-understand ideas, and I would like to build software tools to help others accomplish their goals. I also consider myself a *Machine Learning Advocate*: I like being the liaison between ML and the applied sciences. My future endeavours are to continuously improve upon my ML engineering skills and start to get a grasp on the MLOPs field, and advocate modern ML practices in the geoscience setting. 
+
+<!-- This includes good practices for: \
+- data downloading and preprocessing strategies via recipes, e.g. Pangeo-Forge  \
+- custom datasets and dataloaders, e.g. Torch-Geo \
+- An ontology of models for different data representations, e.g. NerFs & Observations, CNNs/Neural Operators & Surrogates \ -->
+
+
+This website will host a list of my current and past [projects](projects.qmd), [talks](talks.qmd), [conferences](conferences.qmd), and [publications](papers.qmd).
+
+For more information regarding my projects, code tutorials and research notes, please go to my [research journal](https://jejjohnson.github.io/research_notebook/intro.html).
+
+:::{#hero-heading}
+
+***
+
+## Education
+
+<p></p>
+
+**Ph.D. in Electrical Engineering** | Feb 2017 - June 2021 \
+*Universitat de Valéncia, València* | Valencia, Spain \
+Thesis: *Estimating Information in Earth System Data with Machine Learning*
+
+**M.S. in Applied and Computational Mathematics** | Aug 2013 - Dec 2016 \
+*Rochester Institute of Technology* | Rochester, NY, USA \
+Thesis: *Schrödinger Eigenmaps for Manifold Alignment of Multimodal Hyperspectral Images*
+
+**B.S. in Oceanography, B.S. in Mathematical Sciences** | Aug 2009 - May 2013 \
+*Florida Institute of Technology* | Melbourne, FL, USA
+
+
+<p></p>
+
+:::
+
+***
+
+## Experience
+
+**PostDoctoral Researcher** | Sept 2021 - Now \
+*MEOM* | *IGE* | *CNRS* | University of Grenoble-Alpes | Grenoble, France
+
+**Machine Learning Researcher** | Jun 2021 - Aug 2021 \
+*Trillium Technologies* | Remote
+
+**Machine Learning Researcher** |  Jan 2021 - Mar 2021 \
+*Trillium Technologies* | Remote
+
+**Machine Learning Researcher** | Jun 2020 - Aug 2020 \
+*Trillium Technologies* | Remote
+
+**Image Science Intern** | Jun 2016 - Dec 2016 \
+*UTC Aerospace Systems* | Westford, Massachusetts, USA
+
+**Desktop Support Field Technician** | Sept 2011 - Apr 2013 \
+*Florida Institue of Technology* | Melbourne, Florida, USA
+
+**Video Production Assistant** | Oct 2009 - Jan 2011 \
+*Florida Institute of Technology* | Melbourne, Florda, USA
+
+
+
+<!-- ## Selected Work
+
+#### Projects
+
+#### Publications
+
+
+#### Codes
+ -->
+
+
+:::

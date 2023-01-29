@@ -1,0 +1,240 @@
+---
+---
+
+# Research
+
+These are the projects based on my academic research career, i.e. my Ph.D. and my current PostDoc.
+
+## MeLODy | *Sept 2021 - Now*
+
+Investingating how we can using machine learning in observation and computational oceanography. Specifically, we are working with geophysical observations obtained from satellite altimetry and we would like to constrain the solution with ocean models, e.g. NEMO, MITGCM. We approach this problem from a data assimilation formulation but with a machine learning perspective. Currently, we have broken this problem into 3 parts: 
+
+1. Using Neural Fields to interpolate sparse, noisy sea surface height data from altimetry satellites (`nerf4ssh`)
+2. Using conditional generative models to learn surrogate models (`cflow4surrgate`)
+3. Using neural networks to solve 4DVar problems (`modern4dvar`)
+
+:::{.callout-note appearance="simple" collapse="true"}
+
+## NerF4SSH
+
+For more information, see the following resources:
+
+* [GitHub Codebase](https://github.com/jejjohnson/ml4ssh)
+* [Research Notes](https://jejjohnson.github.io/research_notebook/intro.html)
+
+:::
+
+
+:::{.callout-note appearance="simple" collapse="true"}
+
+## cFlow4Surrogates (**Coming Soon!**)
+
+:::
+
+:::{.callout-note appearance="simple" collapse="true"}
+
+## Modern4DVar (**Coming Soon!**)
+
+:::
+
+
+***
+
+
+## ERC | Mar 2017 - Sep 2020
+
+::: {#fig-erc layout-ncol=2}
+
+![SAKAME](https://cvws.icloud-content.com/B/AXkNNr519ph5jhMPAB5amZYQ_4G0AaX6kK-SXTGBN-10AuiWwRWZWjyR/New_Sensitivity.jpg?o=ArwgF3ZWFIfVpNti99RQViMfYTT-mKSy7Gzgpp1q2Miw&v=1&x=3&a=CAogTO5jMmV99P9muToQcivfnIM3SBbFSCJq5ggBO7j40pcSbRCZycrn3zAYmaam6d8wIgEAUgQQ_4G0WgSZWjyRaiZYPjjfa364uLuaElSwaCIXC62W-_4FEvXAIZ9xhWhRD3bKx-R2eXImw0Hf9t56G7gKXhDbcOEk8HubHK30vEGRC1vVe7FoNgkH2LvMoIQ&e=1674989638&fl=&r=2d8af8a5-1432-4c13-a821-ff70dbcee960-1&k=ZsQVERPuvJsqdQH_i9a8Ew&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=70&s=swLo-7ixTf-n7TyXCD6DhX6UqMQ&cd=i){#fig-sakame}
+
+
+![EGP](https://cvws.icloud-content.com/B/AYkahCE5i0EPxNECWwxeuImLCaVRAfGDZ9meDlWYQG3RrscKWHwcNyQc/intro_egp.jpg?o=ArjsUiw6COSyxYiI2iMO1cnJwcIfPyu-tx30Uy46Q27c&v=1&x=3&a=CAogIEqMgOpJHIdj6gbTwkWjaAvagYddtZUiqiCmMN9ETtQSbRDxyMrn3zAY8aWm6d8wIgEAUgSLCaVRWgQcNyQcaiYxts-HMGFMSefMfUBXjlVffz8Wc-atKqe5y5S7yt2Omukcugaf7HImY9WXrH16Ev9d9JJccvELPb-t51UKkLr6RnaUfykkKS-OQozPG3c&e=1674989638&fl=&r=2d8af8a5-1432-4c13-a821-ff70dbcee960-1&k=GJWeDeaF9JCVKozxl0QJgA&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=70&s=n7WLkfVqLeUK4UbCRJm7i7S7gaU&cd=i){#fig-egp}
+
+Summary figures of my work under the ERC project.
+
+:::
+
+In this project, I looked at various ways we could use machine learning to characterize uncertainty in geoscience applications. ML is useful but it is often not understood. However, we demonstrate that there are two aspects that would help alleviate the idea that ML is a "black-box": 1) error propagation and 2) sensitivity analysis.
+
+
+:::{.callout-note appearance="simple" collapse="true"}
+
+## SAKAME 
+
+**TLDR**: Investigating some connections between derivatives of kernel methods and standard sensitivity analysis in the physical sciences. 
+
+We looked at how there is a connection between the derivatives of kernel methods and standard sensitivity analysis seen in the physical sciences. We looked at
+
+* [Journal Article](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0235885): Showcasing how derivatives of kernel methods are linked to 
+* [GitHub Repo](https://github.com/IPL-UV/sakame): all experiments are in here.
+
+:::
+
+:::{.callout-note appearance="simple" collapse="true"}
+
+## EGP 
+
+**TLDR**: Investigating how we can do error propagation through Gaussian process regression model.
+
+In this project I looked at how we can propagate input uncertainty through GP regression models. GPs are the gold standard for having well calibrated predictive mean and variances. However, there is not much (recent) research on how we can propagate input uncertainty. So we looked at how this was possible in the context of geoscience.
+
+* [Journal Article](https://arxiv.org/abs/2005.09907): Showcasing how derivatives of kernel methods are linked to 
+* [GitHub Repo](https://github.com/jejjohnson/uncertain_gps): all experiments are in here.
+* [Research Journal](https://jejjohnson.github.io/research_notebook/content/notes/egps/overview.html): A detailed walkthrough on the literature for input uncertainty in Gaussian processes.
+
+:::
+
+***
+
+## USMILE | Sept 2020 - Aug 2021
+
+
+::: {#fig-usmile}
+---
+fig-cap-location: bottom
+---
+![](https://cvws.icloud-content.com/B/AayJ3sNFRNAGLOieyDXhwj6HTwKEAbV7e0tJ2NM7OAB9a-gdv73iC5vG/New_Information.jpg?o=Ao08D8QqFKPhKbSXZfSdLm2bZIj08kgtrOLOJDfNCrs4&v=1&x=3&a=CAogCTkFG2-caC4Sw-KKih-i0hpotjxIyxRNd42qo23f-pcSbRCgoZDo3zAYoP7r6d8wIgEAUgSHTwKEWgTiC5vGaiaK4d7GlZm8SLn50kXmmRdkoeDI5GvGI6HHN2Cch5629BcLqmcEOXImOWkDKwVNVrr4-C-iDl3uNOJ97TmkaTsQGo9ULdJ8lxQbzyANEIk&e=1674990780&fl=&r=87ea6a27-efce-44d8-9820-f30cb691cea1-1&k=mDOp-ONfHV0i_qeUkrYeMQ&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=70&s=2ziBjCaeifARVwuxBTRisIsM8YM&cd=i){width=400}
+
+
+Summary figures of my work under the USMILE project.
+
+:::
+
+
+In this project, I looked at how we could use different machine learning methods to extract information from Earth System Data. We were given a massive amount of reanalysis data from various sources and we were interested to see how ML can be useful to extract information from said cubes. However, information theory is a difficult problem due to the curse of dimensionality which prohibits good density estimators that are necessary for said information theoretic metrics. We look at Gaussianization as a good density estimator with direct links to information theory due to the formulation.
+
+
+:::{.callout-note appearance="simple" collapse="true"}
+
+## Gauss4EO
+
+**TLDR**: We give a empirical deep-dive into showing how Gaussianization is a good information theoretic estimator.
+
+Gaussianization is a long standing density estimation method. In fact it is the first ever "normalizing flow" method within the literature. We look at a particular version which is called the Rotation-Based Iterative Gaussianization method. We demonstrate its usefulness in including 1) time-memory for drought indicators, 2) redundancy in hyperspectral images, 3) sampling for hyperspectral images, and 4) entropy for different spatial-temporal configurations.
+
+
+More resources for this project:
+
+* [Journal Article](https://arxiv.org/abs/2010.06476) - Published work on formulation and applications to EO data.
+* [GitHub Repo](https://github.com/IPL-UV/gauss4eo) - All codes for experiments with Gaussianization and Earth observation data.
+* [`rbig`](https://github.com/IPL-UV/rbig) - A numpy python package that implements the iterative Gaussianization method.
+* [`rbig_jax`](https://github.com/IPL-UV/rbig_jax) - A JAX python package that implements the iterative and parametric Gaussianization method.
+* [Awesome-Normalizing-Flows](https://github.com/janosh/awesome-normalizing-flows) - An indepth literature review of normalizing flows (and Gaussianization)
+
+:::
+
+:::{.callout-note appearance="simple" collapse="true"}
+
+## Gauss4IT
+
+**TLDR**: We showcase how Gaussianization is a good density estimator and information theoretic estimator for various in Geoscience applications.
+
+In this project, we take a deep-dive into the Gaussianization formulation and demonstrate empirically how it can be used to estimate information theoretic quantities like entropy, mutual information, multivariate mutual information and the Kullback-Leibler Divergence.
+
+* [Submitted Article](https://arxiv.org/abs/2010.03807) - Work for the formulation and empirical evidence for its usefulness in different applications.
+* [Project Webpage](https://isp.uv.es/RBIG4IT.htm) - official webpage for the project and article
+* [GitHub Repo](https://github.com/IPL-UV/gauss4eo) - All codes for experiments with Gaussianization and Earth observation data.
+* [`rbig_matlab`](https://github.com/IPL-UV/rbig_matlab) - A matlab package that implements the iterative Gaussianization method and corresponding IT methods.
+* [`rbig_jax`](https://github.com/IPL-UV/rbig_jax) - A JAX python package that implements the iterative and parametric Gaussianization method.
+
+:::
+
+***
+
+
+# Machine Learning "Sprints"
+
+This are the projects that I was a part of for sprints; where I was a part of a multidisciplinary team looking to solve an applied problem using machine learning.
+
+
+## FDL Sprint (GLM) | Jun 2021 - Aug 2021
+
+
+::: {#fig-glm}
+
+![](https://cvws.icloud-content.com/B/ATQxejwQ9g13wqS4Apbq0YygL3QeAcx0fY9j9LrTWNFfQPmji6w9DTvN/glm_summary.png?o=As32zo1ep_-1EtEJrW6q2I-dW2hjS5l1dfeuzgekmGmU&v=1&x=3&a=CAogmkvNjG8hD1sZXaM3m22POCQSEVkt1CTzX9ZHNb8pKs0SbRDN1orp3zAYzbPm6t8wIgEAUgSgL3QeWgQ9DTvNaiYpXKlzgE3MQkhbkW76bPDA5ggJbJ7P2UAI86NyyQIxgdJwHCCUQnImHXviEpPYtgvwnEZKmvaXx2yAQkTCaxMJkXyP55jWONuuFyADS4Q&e=1674992785&fl=&r=58b81b81-ff14-4147-a004-b009d98cec82-1&k=t3OQ3DlSrUEf2MHU01jaJA&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=70&s=1RblTrnxmSRWtfhmUPFE3hdfnrg&cd=i){width=400}
+
+Summary figures of the FDL Sprint project [[Slides](https://docs.google.com/presentation/d/1zyP3BryswuqXkQr3H4HQ4HygcoXu6ipzHICFXbfpGMw/edit?usp=sharing)].
+
+:::
+
+In this project, we were concerned with extracting lightning events from the GLM Lightning mapper. I was a part of a team that built an end-to-end machine learning pipeline that was able help do filter the point clouds and extract features that were indicative of lightning. We tried the standard techniques like PCA, some deep learning techniques like AutoEncoders, and finally some new SOTA like Graphical Neural Networks.
+
+<!-- We implemented the following pipeline:
+
+1. downloads light curves from telescope data
+2. preprocesses the data
+3. train a Gaussian process using MCMC methods to predict starspot properties
+4. train a neural network model for predicting starspot properties -->
+
+
+For more resources see:
+
+* [Project Page](https://frontierdevelopmentlab.org/fdl-2021)
+* [Slides](https://docs.google.com/presentation/d/1icA9ercI6sSRZPxAa1MQeX3pfEue0oGw_wng-lbNZBA/edit?usp=sharing)
+* [Video](https://vimeo.com/452163073/822f09a304)
+* [GitHub Repo](https://gitlab.com/frontierdevelopmentlab/fdl-2021-lightning-upgrade-2-public-facing/lightning-ml4ps-submission)
+* [Workshop Paper](https://ml4physicalsciences.github.io/2021/files/NeurIPS_ML4PS_2021_72.pdf)
+
+***
+
+## ML4CC Sprint | Jan 2021 - Mar 2021
+
+::: {#fig-ml4cc}
+
+![](https://spaceml-org.github.io/ml4floods/_images/ml4cc_diagram_export.png){width=400}
+
+Summary figures of the ML4CC project [[Source](https://spaceml-org.github.io/ml4floods/_images/ml4cc_diagram_export.png)].
+
+:::
+
+In this project, we were concerned with predicting flood extent after a large storm via an onboard model on a satellite. I was a part of a team that built an end-to-end machine learning pipeline that was able help do just that. We implemented the following pipeline:
+
+1. downloads multimodel remotely sensed multispectral images
+2. preprocesses heterogeneous data accordingly
+3. augments the images to increase sample size for training
+4. train a neural network model for image segmentation
+5. download a trained model to perform inference
+6. visualize the image segmented image
+
+For more resources see:
+
+* [Project Overview](https://www.ml4cc.uk/)
+* [GitHub Repo](https://github.com/spaceml-org/ml4floods) - the repo with all the codes
+* [JupyterBook](https://spaceml-org.github.io/ml4floods/content/intro/introduction.html) - A detailed tutorial document for the end-to-end pipeline.
+* [Video](https://www.youtube.com/watch?v=wMLuHf9s9zk)
+
+***
+
+
+
+## FDL Sprint (StarSpots) | Jun 2020 - Aug 2020
+
+::: {#fig-starspots}
+
+![](https://cvws.icloud-content.com/B/AdYkbmkfcyUF33-Y-C0h1px-1HztAUHbqapR3X6Gr8pbrOdIm_EcMiTp/starspots_model.png?o=AmL1PgkxfmhgY77cX4mREhBObH-jA8ND0_I9R9bxGG8p&v=1&x=3&a=CAogBAlzpRKDijeR_hmaxHwPu4tEysGjM5swfUxs3ERcVOwSbRDe1orp3zAY3rPm6t8wIgEAUgR-1HztWgQcMiTpaiZFvPcavu6HeXHe2YQSOgVlulzbXmubT65y-cGjJPtNACxW9QxWh3ImnZp2VumNhuJakO3ub19TSBVzoCf9I7aSXEGD00BSCTmzEjeXt7E&e=1674992785&fl=&r=58b81b81-ff14-4147-a004-b009d98cec82-1&k=pTs46Cj8uDUkovrO9x7IHg&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=70&s=mAuon9RRchvlpKyL-qmACrLW7Rc&cd=i){width=500}
+
+Summary figures of the FDL Spring project [[Slides](https://docs.google.com/presentation/d/1icA9ercI6sSRZPxAa1MQeX3pfEue0oGw_wng-lbNZBA/edit?usp=sharing)].
+
+:::
+
+In this project, we were concerned with predicting spots on stars (as an indicator of star activity) from telescope data. I was a part of a team that built an end-to-end machine learning pipeline that was able help do just that. We were able to fit the data to get parameters using Bayesian inference. We were also able to use a neural network to predict star spot properties using transfer learning resulting in a x10K speed up! 
+
+<!-- We implemented the following pipeline:
+
+1. downloads light curves from telescope data
+2. preprocesses the data
+3. train a Gaussian process using MCMC methods to predict starspot properties
+4. train a neural network model for predicting starspot properties -->
+
+
+For more resources see:
+
+* [Project Page](https://frontierdevelopmentlab.org/fdl-2020)
+* [Slides](https://docs.google.com/presentation/d/1icA9ercI6sSRZPxAa1MQeX3pfEue0oGw_wng-lbNZBA/edit?usp=sharing)
+* [Video](https://vimeo.com/452163073/822f09a304)
+* [Workshop Paper](https://arxiv.org/abs/2012.01985)
+
+
+
+

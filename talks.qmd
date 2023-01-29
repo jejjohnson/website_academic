@@ -1,0 +1,80 @@
+---
+title: "Talks"
+---
+
+# 2022
+
+**Implicit Neural Representations for Sea Surface Height (a.k.a. Modern Optimal Interpolation)** \
+[**M2Lines**](https://m2lines.github.io)
+[Slides](https://www.icloud.com/keynote/08dK4wpswFu_fQXGLaHHslPfA#m2lines%5Finf%5F2022%5F06%5F15%5Fshort)
+
+**Implicit Neural Representations for Sea Surface Height (a.k.a. Modern Optimal Interpolation)** \
+*SWOT Meetup* \
+[Slides](https://www.icloud.com/keynote/docws:1044839625:com.apple.CloudDocs:C513B070-FA7E-47B9-B998-AA599443CCC3#jejohnson_swot_2022_06_29_low)
+
+***
+
+# 2021
+
+**Gaussianing the Earth: An Information Theoretic Perspective** \
+*IGE Seminar* \
+[Slides](https://docs.google.com/presentation/d/17Ux6Bxu4v1GYPCzCrEfG_8EN4Ttsget0AuswLGMnxmk/edit?usp=sharing)
+
+**Gaussianizing the Earth: An Information Theoretic Perspective** \
+[*Machine Learning in Science and Engineering*](https://datascience.columbia.edu/event/mlse-2020-conference-machine-learning-in-science-and-engineering/) \
+[**Slides**](https://docs.google.com/presentation/d/1D9xXtQ0d42DyASJJFzytxWzmcvPSCcdrso-42nkI2Dk/edit?usp=sharing)
+
+**ML4CC: Flood Extent Prediction** \
+[*Trillium*](https://www.ml4cc.uk) \
+[Slides](https://docs.google.com/presentation/d/1Z6NX1pC5w7mUPSuw_BIXWN9M1synGzDOA66Jrd8d7Gc/edit?usp=sharing) 
+
+**GLM Instrument Upgrade to Improve Extreme Weather Warnings** \
+*Earth Science & AI Digital Showcase* \
+[Slides](https://docs.google.com/presentation/d/1zyP3BryswuqXkQr3H4HQ4HygcoXu6ipzHICFXbfpGMw/edit?usp=sharing) | [Video](https://www.youtube.com/watch?v=CnUx2eOz6zc)
+
+***
+
+# 2020
+
+**Applying GPs in the Wild** \
+[*iMIRACLI Summer School*](https://imiracli.web.ox.ac.uk/training) \
+[Slides](https://docs.google.com/presentation/d/1uynagpMIpudB1jM3dEv3RuelknG0hvRkrshreUj-irI/edit?usp=sharing)
+
+**Input Uncertainty Propagation in Gaussian Process Regression Models** \
+[*KERMES 2020*](https://isp.uv.es/meetings_kermes.html) \
+[Slides](https://docs.google.com/presentation/d/1w8cY21N3WpaAfSCU5B5aTkM6uQPeAiRTPhT53SfBGmM/edit?usp=sharing)
+
+**Kernel Alignment: The Empirical Analysis at the Parameter Space for RBF Kernels** \
+*Fast Friday Talks - ISP* \
+[Slides](https://docs.google.com/presentation/d/1UVcXu-kn7L3l_kVXAf_qagK2nPJ8oEK-ecrjKv62FQE/edit?usp=sharing)
+
+**Heliophysics Project Showcase: StarSpots** \
+*Space Science & AI Digital Showcase Presentation* \
+[Slides](https://docs.google.com/presentation/d/1icA9ercI6sSRZPxAa1MQeX3pfEue0oGw_wng-lbNZBA/edit?usp=sharing) | [Video](https://vimeo.com/452163073/822f09a304)
+
+***
+
+# 2019
+
+**Sensitivity Analysis for Gaussian Processes: Gradient-Based Methods for Emulation** \
+[*Phi-Week*](https://nikal.eventsair.com/NikalWebsitePortal/esa-eo-phi-week-2019/test-3) \
+[Slides](https://docs.google.com/presentation/d/1KDSxux0tvq7tMORCMTgkDIujaW_7ZEdBOYFE2Q3xkrI/edit?usp=sharing) | [Code](https://github.com/IPL-UV/gp_sens)
+
+**Unsupervised Machine Learning: Exploring Spatial Temporal Relationships and Drought Factors** \
+[*Phi-Week*](https://nikal.eventsair.com/NikalWebsitePortal/esa-eo-phi-week-2019/test-3) \
+[Slides](https://docs.google.com/presentation/d/1RsuAtCixyChrlvmqoX0-_hBa5o3cgXRX45l9TDMtzWo/edit?usp=sharing) | [Code](https://github.com/jejjohnson/rbig_eo)
+
+**Climate Model Intercomparison with Multivariate Information Theoretic Measures** \
+*AGU* \
+[Slides](https://docs.google.com/presentation/d/18KfmAbaJI49EycNule8vvfR1dd0W6VDwrGCXjzZe5oE/edit?usp=sharing)
+
+***
+
+# 2018
+
+**Kernel Methods for Earth Observation: Gaussian Processes and Derivatives** \
+[Slides](https://docs.google.com/presentation/d/1We0yAbJrd31aRVrMRsH3KixYy-xqtp3KCDsIGn7dhno/edit?usp=sharing) | [Code](https://github.com/IPL-UV/gp_error_propagation)
+
+**Information Theoretic Tools for the Earth Science Data Cubes** \
+*EGU* \
+[Slides](https://cvws.icloud-content.com/B/AS7tclv1-XC1eXXshzlhjGkXB1M-AZ5sdMosvoxpvNRAfqJ3rEGqsszL/2018_egu_prezi.pdf?o=AhgUxH1Kk25Krc6OdcPHNUhDNu5uB44dXp_yiCm55cyH&v=1&x=3&a=CAogn2yt4oZzF4ya7NcHKEtTGbT3xqJLZF1WSaYAvuis1vQSbRCm9tHM3zAYptOtzt8wIgEAUgQXB1M-WgSqsszLaia1Iktl4iIeK3NhJpzAp7_zP2qfi0_iOiwXZHDV6pzm3-jQzmMdGHImD-Y5iNKp5144wkJSXMZxQfGKrtM0lk5LQM37WCUn2NiU23qQkDQ&e=1674933135&fl=&r=52cf302b-5b95-4dce-a21c-f8f75b7faae0-1&k=OecGa6qQQE_nJ8Fpp36iFQ&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=70&s=Piaku8IeIVYQgMrp2-PDC4NX8NE&cd=i)

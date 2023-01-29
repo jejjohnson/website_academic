@@ -1,0 +1,35 @@
+project:
+  type: website
+  resources:
+    - cv.pdf
+
+website:
+  title: "J. Emmanuel Johnson"
+  open-graph:
+    locale: en_US
+  twitter-card:
+    creator: "@jejjohnson"
+  navbar:
+    right:
+      - href: index.qmd
+        text: "HOME"
+      - href: projects.qmd
+        text: "PROJECTS"
+      - href: talks.qmd
+        text: "TALKS"
+      - href: papers.qmd
+        text: "PUBLICATIONS"
+      - href: conferences.qmd
+        text: "CONFERENCES"
+      # - href: misc.qmd
+      #   text: "MISC."
+page-footer:
+    left: "© Copyright 2023 J. Emmanuel Johnson. Except where otherwise noted, all text and images licensed CC-BY-NC 4.0."
+format:
+  html:
+    theme: darkly
+    css: styles.css
+    toc: true
+
+
+

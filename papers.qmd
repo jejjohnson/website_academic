@@ -1,0 +1,52 @@
+---
+title: "Papers"
+---
+
+For a more complete list, please see my [google scholar page](https://scholar.google.com/citations?hl=en&user=h-wdX7gAAAAJ&view_op=list_works&authuser=1&sortby=pubdate).
+
+## Submitted
+
+Information theory measures via multidimensional Gaussianization \
+Valero Laparra, **J. Emmanuel Johnson**, Gustau Camps-Valls, Raul Santos-Rodríguez, Jesus Malo \
+[Project Web](https://isp.uv.es/RBIG4IT.htm) | [Paper](https://arxiv.org/abs/2010.03807) | [Code](https://github.com/IPL-UV/rbig)
+
+## Published 
+
+### 2021
+
+**Gaussianizing the Earth: Multidimensional Information Measures for Earth Data Analysis** \
+**J Emmanuel Johnson**, Valero Laparra, Maria Piles, Gustau Camps-Valls \
+*IEEE Geoscience and Remote Sensing Magazine* \
+[Paper](https://arxiv.org/abs/2010.06476) | [Code](https://github.com/IPL-UV/rbig)
+
+**Learning Relevant Features of Optical Water Types** \
+Katalin Blix, Ana Belen Ruescas, **J. Emmanuel Johnson**, Gustau Camps-Valls \
+*IEEE Geoscience and Remote Sensing Letters* \
+[Paper](https://ieeexplore.ieee.org/abstract/document/9415736) 
+
+### 2020
+
+**Kernel methods and their derivatives: Concept and perspectives for the earth system sciences** \
+**J. Emmanuel Johnson**, Valero Laparra, Adrián Pérez-Suay, Miguel D Mahecha, Gustau Camps-Valls \
+*PLOS One* \
+[Paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0235885) | [Code](https://github.com/IPL-UV/sakame)
+
+**Estimation of oceanic particulate organic carbon with machine learning** \
+Raphaëlle Sauzède, **J. Emmanuel Johnson**, Hervé Claustre, Gustau Camps-Valls, Ana Ruescas \
+*ISPRS Annals of Photogrammetry, Remote Sensing and Spatial Information Sciences* \
+[Paper (PDF)](https://hal.science/hal-03137748/document) | [Code](https://github.com/IPL-UV/ml4ocean)
+
+
+### 2019
+
+**Accounting for input noise in Gaussian process parameter retrieval** \
+**J. Emmanuel Johnson**, Valero Laparra, Gustau Camps-Valls \
+*IEEE Geoscience and Remote Sensing Letters* \
+[Paper](https://arxiv.org/abs/2005.09907) | [Code](https://github.com/jejjohnson/uncertain_gps)
+
+### 2016
+
+**Wind-driven circulation in a shallow microtidal estuary: The Indian River Lagoon** \
+Robert J Weaver, **J. Emmanuel Johnson**, Morgan Ridler \
+*Journal of Coastal Research* \
+[Paper](https://meridian.allenpress.com/jcr/article-abstract/32/6/1333/104263)
